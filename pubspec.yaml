@@ -1,0 +1,32 @@
+name: cash_ear
+description: A Point of Sales app for Cash Ear
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  provider: ^6.1.2
+  intl: ^0.20.2
+  pdf: ^3.10.8
+  printing: ^5.14.2
+  image_picker: ^1.0.7
+  firebase_core: ^3.15.1
+  firebase_auth: ^5.6.2
+  cloud_firestore: ^5.6.11
+  firebase_storage: ^12.4.9
+  firebase_remote_config: ^5.4.7
+  flutter_local_notifications: ^19.3.0
+  uuid: ^4.5.1
+  permission_handler: ^11.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
