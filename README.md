@@ -98,4 +98,4 @@ You must provide your own Firebase configuration to run the app.
 
 ## License
 
-This project is licensed under the MIT License.
+This application is open source and free to use for personal and business purposes.
