@@ -64,10 +64,11 @@ You must provide your own Firebase configuration to run the app.
 
 ## Screenshots
 
-_Add your screenshots here to showcase the app UI._
-
----
-
+<img src="https://i.postimg.cc/0zy8gF7X/login.jpg" alt="Login Screen" width="300"/>
+<img src="https://i.postimg.cc/4Y2XXP5f/dashboard.jpg" alt="Dashboard Screen" width="300"/>
+<img src="https://i.postimg.cc/K4tctnZf/keranjang.jpg" alt="Keranjang Screen" width="300"/>
+<img src="https://i.postimg.cc/677tqZjd/laporan.jpg" alt="Laporan Screen" width="300"/>
+<img src="https://i.postimg.cc/Vd1fgdv8/penjualan.jpg" alt="Penjualan Screen" width="300"/>
 ## License
 
 This project is licensed under the MIT License.
