@@ -18,13 +18,13 @@ void main() async {
   if (kIsWeb) {
     await Firebase.initializeApp(
       options: FirebaseOptions(
-        apiKey: "AIzaSyBs-72OzQio-CFUKYyyFbdT1CzipO3hP6Y",
-        authDomain: "warkop-m.firebaseapp.com",
-        projectId: "warkop-m",
-        storageBucket: "warkop-m.firebasestorage.app",
-        messagingSenderId: "806057164079",
-        appId: "1:806057164079:android:b7185b32f27ef1df3775da",
-        measurementId: "G-BDWK3LQZBJ",
+        apiKey: "api_key",
+        authDomain: "company.firebaseapp.com",
+        projectId: "company-m",
+        storageBucket: "example-m.firebasestorage.app",
+        messagingSenderId: "messegin",
+        appId: "app_id",
+        measurementId: "Measurement_id",
       ),
     );
   } else {
